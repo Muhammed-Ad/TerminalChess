@@ -1,0 +1,8 @@
+King: 
+Mana: 10
+Attack: 20
+Health: 215
+Destroyed: 0
+Time to make move: 15941
+Move number: 1
+Total game moves (both players): 1

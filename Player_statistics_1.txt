@@ -1,0 +1,48 @@
+Pawn: 
+Mana: 10
+Attack: 20
+Health: 215
+Destroyed: 0
+Time to make move: 7
+Move number: 1
+Total game moves (both players): 2
+Pawn: 
+Mana: 10
+Attack: 20
+Health: 215
+Destroyed: 0
+Time to make move: 10
+Move number: 2
+Total game moves (both players): 4
+Pawn: 
+Mana: 10
+Attack: 20
+Health: 215
+Destroyed: 0
+Time to make move: 9
+Move number: 3
+Total game moves (both players): 6
+Queen: 
+Mana: 10
+Attack: 20
+Health: 215
+Destroyed: 0
+Time to make move: 28
+Move number: 4
+Total game moves (both players): 8
+King: 
+Mana: 10
+Attack: 20
+Health: 195
+Destroyed: 0
+Time to make move: 23
+Move number: 5
+Total game moves (both players): 10
+Queen: 
+Mana: 35
+Attack: 20
+Health: 215
+Destroyed: 0
+Time to make move: 9
+Move number: 6
+Total game moves (both players): 12
